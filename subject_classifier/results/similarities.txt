@@ -1,0 +1,528 @@
+the Department of Health and Social Services; relating to in-home personal care services agencies; establishing the In-Home Personal Care Services Advisory Board; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: DISABILITIES, LICENSING, MEDICAL CARE, OCCUPATIONS & PROFESSIONS, SENIOR CITIZENS
+the relocating and convening of the legislature at the Legislative Information Office in Anchorage; relating to the regulation of lobbying; relating to annual student guests of the legislature; relating to locations of sessions of the legislature; relating to the Legislative Ethics Act; relating to the relocation of functions of state government; and providing for an effective date.
+PREDICTED: LEGISLATURE
+ORIGINAL: CAPITAL, STATE, DISASTER, ECONOMY, ETHICS, LEGISLATIVE AGENCIES, LEGISLATORS, LEGISLATURE, LOBBYISTS
+cos_sim(LEGISLATURE, CAPITAL, STATE) = [[0.9891942]]
+cos_sim(LEGISLATURE, DISASTER) = [[0.9761491]]
+cos_sim(LEGISLATURE, ECONOMY) = [[0.96197754]]
+cos_sim(LEGISLATURE, ETHICS) = [[0.98549104]]
+cos_sim(LEGISLATURE, LEGISLATIVE AGENCIES) = [[0.9912844]]
+cos_sim(LEGISLATURE, LEGISLATORS) = [[0.9845855]]
+cos_sim(LEGISLATURE, LEGISLATURE) = [[0.9999998]]
+the purchase and sale of state land; relating to discounts for veterans on state land purchases; and relating to the assignment of permanent fund dividends to purchase state land.
+PREDICTED: 
+ORIGINAL: FUNDS, LAND, PERMANENT FUND, PROPERTY, RESOURCES, SALES
+assault in the third and fourth degrees; and relating to reckless endangerment.
+PREDICTED: CRIMES
+ORIGINAL: CRIMES, CRIMINAL PROCEDURE, SAFETY, WEAPONS
+cos_sim(CRIMES, CRIMES) = [[1.]]
+cos_sim(CRIMES, CRIMINAL PROCEDURE) = [[0.9865847]]
+An Act prohibiting the expenditure of state money on gender reassignment medical procedures.
+PREDICTED: 
+ORIGINAL: HEALTH & SOCIAL SERVICES, INSURANCE, MEDICAL CARE, PUBLIC ASSISTANCE
+the display of the national and state mottos.
+PREDICTED: 
+ORIGINAL: BUILDINGS, FLAGS, LEASES, LIBRARIES, SCHOOL DISTRICTS, SCHOOLS, UNIVERSITIES
+sex education, human reproductive education, and human sexuality education.
+PREDICTED: SCHOOLS AND SCHOOL DISTRICTS, SEX OFFENSES AND OFFENDERS
+ORIGINAL: EDUCATION, FAMILIES, MARRIAGE, MINORS, SCHOOLS
+the liability of an excavator for damaging an underground facility.
+PREDICTED: 
+ORIGINAL: CONSTRUCTION, CONTRACTORS, INDEMNIFICATION, LIABILITY
+criminal law and procedure; relating to controlled substances; relating to victims of criminal offenses; relating to probation; relating to sentencing; relating to treatment program credit for time spent toward service of a sentence of imprisonment; relating to the Violent Crimes Compensation Board; relating to permanent fund dividends; relating to electronic monitoring; relating to penalties for violating municipal ordinances; relating to parole; relating to community work service; relating to the duties of the commissioner of corrections; relating to the duties of the Department of Health and Social Services; relating to civil in rem forfeiture actions; repealing Rules 38(d) and (e), Alaska Rules of Criminal Procedure; and providing for an effective date.
+PREDICTED: CRIMES, SENTENCING
+ORIGINAL: ADMINISTRATIVE PROCEDURE, ALCOHOL, APPEALS, ATTORNEY GENERAL, BOARDS & COMMISSIONS, CIVIL PROCEDURE, CORRECTIONS, COURT RULES, CRIMES, CRIMINAL PROCEDURE, DRUGS, FUNDS, HEALTH & SOCIAL SERVICES, PROCUREMENTS, PUBLIC ASSISTANCE, PUBLIC SAFETY, REGULATIONS, SENTENCING, SUNSET, VICTIMS RIGHTS, WEAPONS, WITNESSES
+cos_sim(CRIMES, ADMINISTRATIVE PROCEDURE) = [[0.9762465]]
+cos_sim(SENTENCING, ADMINISTRATIVE PROCEDURE) = [[0.98146087]]
+cos_sim(CRIMES, CIVIL PROCEDURE) = [[0.9786233]]
+cos_sim(SENTENCING, CIVIL PROCEDURE) = [[0.9887456]]
+cos_sim(CRIMES, CORRECTIONS) = [[0.9594831]]
+cos_sim(SENTENCING, CORRECTIONS) = [[0.9588986]]
+cos_sim(CRIMES, COURT RULES) = [[0.98360896]]
+cos_sim(SENTENCING, COURT RULES) = [[0.96655554]]
+cos_sim(CRIMES, CRIMES) = [[1.0000001]]
+cos_sim(SENTENCING, CRIMES) = [[0.9977972]]
+cos_sim(CRIMES, CRIMINAL PROCEDURE) = [[0.98989093]]
+cos_sim(SENTENCING, CRIMINAL PROCEDURE) = [[0.9735031]]
+cos_sim(CRIMES, SENTENCING) = [[0.99600554]]
+cos_sim(SENTENCING, SENTENCING) = [[1.]]
+cos_sim(CRIMES, VICTIMS RIGHTS) = [[0.95923275]]
+cos_sim(SENTENCING, VICTIMS RIGHTS) = [[0.9780169]]
+misconduct involving a controlled substance; providing for substitution of judgment; and relating to sentencing.
+PREDICTED: 
+ORIGINAL: CRIMES, CRIMINAL PROCEDURE, DRUGS, SENTENCING
+participation of certain peace officers in the defined benefit and defined contribution plans of the Public Employees' Retirement System of Alaska; and providing for an effective date.
+PREDICTED: RETIREMENT AND PENSIONS
+ORIGINAL: BOARDS & COMMISSIONS, FISH & GAME (BOTH), INSURANCE, LABOR, LAW ENFORCEMENT, OCCUPATIONS & PROFESSIONS, PUBLIC EMPLOYEES, RETIREMENT
+cos_sim(RETIREMENT AND PENSIONS, PUBLIC EMPLOYEES) = [[0.95515805]]
+cos_sim(RETIREMENT AND PENSIONS, RETIREMENT) = [[0.9725402]]
+protective orders.
+PREDICTED: FIREARMS, ORDERS OF COURT
+ORIGINAL: COURTS, CRIMES, CRIMINAL PROCEDURE, DOMESTIC VIOLENCE, HEARINGS
+cos_sim(ORDERS OF COURT, COURTS) = [[0.9779133]]
+cos_sim(FIREARMS, CRIMES) = [[0.9590562]]
+cos_sim(ORDERS OF COURT, CRIMES) = [[0.9817759]]
+cos_sim(FIREARMS, CRIMINAL PROCEDURE) = [[0.9731577]]
+cos_sim(ORDERS OF COURT, CRIMINAL PROCEDURE) = [[0.9692044]]
+cos_sim(FIREARMS, DOMESTIC VIOLENCE) = [[0.957813]]
+cos_sim(ORDERS OF COURT, DOMESTIC VIOLENCE) = [[0.9614082]]
+the Department of Health and Social Services to apply for a waiver to establish work requirements for certain adults who are eligible for the state medical assistance program.
+PREDICTED: 
+ORIGINAL: FEDERAL AID, HEALTH & SOCIAL SERVICES, LABOR, MEDICAL CARE, PUBLIC ASSISTANCE
+assault in the first degree; relating to harassment; relating to sex offenses; relating to the definition of 'dangerous instrument'; relating to sentencing; providing for an aggravating factor at sentencing for strangulation that results in unconsciousness; relating to the duties of the prosecuting attorney; and relating to victim notifications.
+PREDICTED: CRIMES, SEX OFFENSES AND OFFENDERS
+ORIGINAL: CRIMES, CRIMINAL PROCEDURE, MINORS, PUBLIC SAFETY, SENTENCING
+cos_sim(CRIMES, CRIMES) = [[1.]]
+cos_sim(SEX OFFENSES AND OFFENDERS, CRIMES) = [[0.9735414]]
+cos_sim(CRIMES, CRIMINAL PROCEDURE) = [[0.9879443]]
+cos_sim(SEX OFFENSES AND OFFENDERS, CRIMINAL PROCEDURE) = [[0.96246445]]
+cos_sim(CRIMES, SENTENCING) = [[0.9938018]]
+cos_sim(SEX OFFENSES AND OFFENDERS, SENTENCING) = [[0.9520291]]
+sentencing for vehicle theft in the first degree.
+PREDICTED: CRIMES, MOTOR VEHICLES, SENTENCING
+ORIGINAL: COURTS, CRIMES, CRIMINAL PROCEDURE, MOTOR VEHICLES, SENTENCING
+cos_sim(CRIMES, COURTS) = [[0.9564517]]
+cos_sim(CRIMES, CRIMES) = [[0.99999994]]
+cos_sim(SENTENCING, CRIMES) = [[0.9954114]]
+cos_sim(CRIMES, CRIMINAL PROCEDURE) = [[0.98208064]]
+cos_sim(SENTENCING, CRIMINAL PROCEDURE) = [[0.9808757]]
+cos_sim(MOTOR VEHICLES, MOTOR VEHICLES) = [[1.]]
+cos_sim(CRIMES, SENTENCING) = [[0.99382806]]
+cos_sim(SENTENCING, SENTENCING) = [[0.9999998]]
+shared animal ownership; and relating to the sharing and sale of raw milk and raw milk products.
+PREDICTED: 
+ORIGINAL: AGRICULTURE, FEES, FISH & GAME (FISH), FOOD, MUNICIPALITIES, PROCUREMENTS, PUBLIC FINANCE, REGULATIONS, TOURISM
+An Act repealing the certificate of need program for health care facilities; making conforming amendments; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: HEALTH & SOCIAL SERVICES, HOSPITALS, MEDICAL CARE, MENTAL HEALTH, NURSING HOMES, RESIDENTIAL CARE
+the compensation for certain public officials, officers, and employees not covered by collective bargaining agreements; and providing for an effective date.
+PREDICTED: COLLECTIVE BARGAINING
+ORIGINAL: COLLECTIVE BARGAINING, EMPLOYMENT, PUBLIC EMPLOYEES, PUBLIC OFFICERS, SALARIES & ALLOWANCES, WAGES
+cos_sim(COLLECTIVE BARGAINING, COLLECTIVE BARGAINING) = [[1.]]
+cos_sim(COLLECTIVE BARGAINING, EMPLOYMENT) = [[0.97270626]]
+cos_sim(COLLECTIVE BARGAINING, PUBLIC EMPLOYEES) = [[0.9511365]]
+cos_sim(COLLECTIVE BARGAINING, SALARIES & ALLOWANCES) = [[0.9867642]]
+cos_sim(COLLECTIVE BARGAINING, WAGES) = [[0.9922953]]
+An Act exempting certain water taxi operators from regulation as transportation services by the Big Game Commercial Services Board; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BOARDS & COMMISSIONS, BOATS & BOATING, BUSINESS, FISH & GAME (GAME), TRANSPORTATION
+sexual assault; relating to the definitions of 'without consent' and 'consent'; relating to failure to report a violent crime; relating to sexual misconduct under the code of military justice; requiring law enforcement agencies to test sexual assault examination kits; requiring notification of completion of testing; relating to reports on untested sexual assault examination kits; and providing for an effective date.
+PREDICTED: SEX OFFENSES AND OFFENDERS
+ORIGINAL: CRIMES, CRIMINAL PROCEDURE, LAW ENFORCEMENT, PUBLIC SAFETY, SCIENCE & TECHNOLOGY, VICTIMS RIGHTS
+cos_sim(SEX OFFENSES AND OFFENDERS, CRIMES) = [[0.97022563]]
+cos_sim(SEX OFFENSES AND OFFENDERS, CRIMINAL PROCEDURE) = [[0.96281487]]
+insurance coverage for contraceptives and related services; relating to medical assistance coverage for contraceptives and related services; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BOARDS & COMMISSIONS, DRUGS, HEALTH & SOCIAL SERVICES, INSURANCE, MEDICAL CARE, WOMEN
+An Act extending the termination date of the Statewide Suicide Prevention Council; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BOARDS & COMMISSIONS, MENTAL HEALTH, SUNSET
+registration fees for snowmobiles and off-highway vehicles.
+PREDICTED: MOTOR VEHICLES
+ORIGINAL: FEES, LICENSING, MOTOR VEHICLES, TRANSPORTATION
+cos_sim(MOTOR VEHICLES, MOTOR VEHICLES) = [[1.]]
+instruction in a language other than English; and relating to limited teacher certificates.
+PREDICTED: SCHOOLS AND SCHOOL DISTRICTS
+ORIGINAL: ALASKA NATIVES, EMPLOYMENT, LICENSING, SCHOOL DISTRICTS, SCHOOLS, TEACHERS
+the Alaska Police Standards Council; relating to the definition of 'peace officer'; and relating to private police organizations.
+PREDICTED: 
+ORIGINAL: BOARDS & COMMISSIONS, CRIMES, CRIMINAL PROCEDURE, LAW ENFORCEMENT
+contracts for highway construction projects.
+PREDICTED: ROADS AND HIGHWAYS
+ORIGINAL: CONSTRUCTION, CONTRACTORS, CONTRACTS, HIGHWAYS, MOTOR VEHICLES, PUBLIC SAFETY, TRANSPORTATION
+the manufacture, sale, distribution, and labeling of child-related products containing certain flame retardant chemicals; relating to an interstate chemicals clearinghouse; adding unlawful acts to the Alaska Unfair Trade Practices and Consumer Protection Act; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: ATTORNEY GENERAL, CONSUMER AFFAIRS, ENVIRONMENTAL CONCERNS, FAMILIES, HAZARDOUS SUBSTANCES, HEALTH & SOCIAL SERVICES, MINORS, PUBLIC SAFETY, REGULATIONS, SALES, TRADE PRACTICES
+an annual report concerning the payment of equal pay for comparable work; increasing the minimum wage; and providing for an effective date.
+PREDICTED: WAGES AND HOURS
+ORIGINAL: EMPLOYMENT, FAMILIES, LABOR, SALARIES & ALLOWANCES, WAGES
+cos_sim(WAGES AND HOURS, WAGES) = [[0.9547177]]
+insurance coverage for benefits provided through telehealth; and providing for an effective date.
+PREDICTED: INSURANCE
+ORIGINAL: INSURANCE, INTERNET, MEDICAL CARE, PUBLIC EMPLOYEES
+cos_sim(INSURANCE, INSURANCE) = [[0.9999999]]
+cos_sim(INSURANCE, MEDICAL CARE) = [[0.98551923]]
+cos_sim(INSURANCE, PUBLIC EMPLOYEES) = [[0.9721897]]
+notice of workers' compensation death benefits; relating to the payment of workers' compensation benefits in the case of permanent partial impairment; relating to the payment of workers' compensation death benefits payable to a child of an employee when there is no surviving spouse; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: DEATH, DISCLOSURE, FAMILIES, WORKERS COMPENSATION
+An Act making a special appropriation to the Alaska permanent fund; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: APPROPRIATIONS, BUDGET, PERMANENT FUND, PUBLIC FINANCE, SPECIAL APPROPRIATIONS
+An Act making certain entities that are exempt from federal taxation under 26 U.S.C. 501(c)(3), (4), (6), (12), or (19) (Internal Revenue Code), regional housing authorities, and federally recognized tribes eligible for a loan from the Alaska energy efficiency revolving loan fund; relating to loans from the Alaska energy efficiency revolving loan fund; and relating to the annual report published by the Alaska Housing Finance Corporation.
+PREDICTED: 
+ORIGINAL: ALASKA NATIVES, ENERGY, FINANCE, FINANCIAL INSTITUTIONS, FUNDS, HOUSING, LOANS, MUNICIPALITIES, NATIVE ORGANIZATIONS, NONPROFIT ORGANIZATIONS, SCHOOL DISTRICTS, TAXATION
+defenses to sexual assault; and relating to registration of sex offenders.
+PREDICTED: SEX OFFENSES AND OFFENDERS
+ORIGINAL: CRIMES, CRIMINAL PROCEDURE, MINORS, PUBLIC SAFETY, SENTENCING
+cos_sim(SEX OFFENSES AND OFFENDERS, CRIMES) = [[0.9755924]]
+cos_sim(SEX OFFENSES AND OFFENDERS, CRIMINAL PROCEDURE) = [[0.959935]]
+cos_sim(SEX OFFENSES AND OFFENDERS, SENTENCING) = [[0.95599276]]
+An Act naming the Scott Johnson Memorial Bridge.
+PREDICTED: NAMED ACTS
+ORIGINAL: HIGHWAYS, PLACE NAMES
+cos_sim(NAMED ACTS, PLACE NAMES) = [[0.9915936]]
+participation in matters before the Board of Fisheries and the Board of Game by the members of the respective boards; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BOARDS & COMMISSIONS, CONFLICT OF INTEREST, ETHICS, FAMILIES, FISH & GAME (BOTH), PUBLIC OFFICERS
+An Act repealing an exemption for containing or confining loads being transported on highways; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: CRIMES, HIGHWAYS, MOTOR VEHICLES, TRANSPORTATION
+An Act exempting certain low voltage projects from contractor and electrical administrator requirements.
+PREDICTED: 
+ORIGINAL: CONSTRUCTION, CONTRACTORS, CONTRACTS, INSURANCE, LIABILITY, LICENSING, OCCUPATIONS & PROFESSIONS
+An Act making appropriations, including capital appropriations, supplemental appropriations, reappropriations, and other appropriations; making appropriations to capitalize funds; and providing for an effective date.
+PREDICTED: BUDGETS
+ORIGINAL: APPROPRIATIONS, AVIATION, BUDGET, BUILDINGS, CAPITAL PROJECTS, CORRECTIONS, DATA PROCESSING, ENERGY, ENVIRONMENTAL CONCERNS, FORESTRY, FUNDS, GRANTS, HAZARDOUS WASTE, HEALTH & SOCIAL SERVICES, HIGHWAYS, HISTORIC PRESERVATION, HOUSING, INSURANCE, LAND, MARINE FACILITIES, MARINE HIGHWAY, MILITARY, MINING, OIL & GAS, PUBLIC SAFETY, PUBLIC UTILITIES, RESOURCES, REVENUE, SANITATION, SUPPLEMENTAL APPROPRIATIONS, TEACHERS, TRAILS, TRANSPORTATION, UTILITIES, VESSELS, WATER
+cos_sim(BUDGETS, APPROPRIATIONS) = [[0.99489903]]
+cos_sim(BUDGETS, AVIATION) = [[0.995832]]
+cos_sim(BUDGETS, BUDGET) = [[1.]]
+cos_sim(BUDGETS, BUILDINGS) = [[0.9944326]]
+cos_sim(BUDGETS, CAPITAL PROJECTS) = [[0.99674433]]
+cos_sim(BUDGETS, DATA PROCESSING) = [[0.9955503]]
+cos_sim(BUDGETS, ENERGY) = [[0.9763068]]
+cos_sim(BUDGETS, ENVIRONMENTAL CONCERNS) = [[0.9953444]]
+cos_sim(BUDGETS, GRANTS) = [[0.97729963]]
+cos_sim(BUDGETS, HAZARDOUS WASTE) = [[0.9916675]]
+cos_sim(BUDGETS, HIGHWAYS) = [[0.95684093]]
+cos_sim(BUDGETS, HISTORIC PRESERVATION) = [[0.9971752]]
+cos_sim(BUDGETS, INSURANCE) = [[0.95066714]]
+cos_sim(BUDGETS, LAND) = [[0.9938058]]
+cos_sim(BUDGETS, MARINE HIGHWAY) = [[0.9881605]]
+cos_sim(BUDGETS, MILITARY) = [[0.99466544]]
+cos_sim(BUDGETS, MINING) = [[0.9960897]]
+cos_sim(BUDGETS, OIL & GAS) = [[0.9814977]]
+cos_sim(BUDGETS, PUBLIC UTILITIES) = [[0.9748588]]
+cos_sim(BUDGETS, RESOURCES) = [[0.9797869]]
+cos_sim(BUDGETS, REVENUE) = [[0.97727716]]
+cos_sim(BUDGETS, SUPPLEMENTAL APPROPRIATIONS) = [[0.99670935]]
+cos_sim(BUDGETS, TEACHERS) = [[0.9879927]]
+cos_sim(BUDGETS, VESSELS) = [[0.99637085]]
+cos_sim(BUDGETS, WATER) = [[0.9821913]]
+An Act making appropriations for the operating and loan program expenses of state government and for certain programs; capitalizing funds; amending appropriations; making supplemental appropriations and reappropriations; and providing for an effective date.
+PREDICTED: BUDGETS, PUBLIC FUNDS AND ACCOUNTS
+ORIGINAL: AIRPORTS, APPROPRIATIONS, BONDS & BONDING, BUDGET, BUDGET RESERVE FUND, COURTS, ECONOMIC DEVELOPMENT, EDUCATION, ENERGY, EXECUTIVE BRANCH, FEDERAL AID, FIRE PROTECTION, FUNDS, HOUSING, LEGISLATURE, LOANS, MILITARY, PERMANENT FUND, PUBLIC CORPORATIONS, PUBLIC EMPLOYEES, PUBLIC FINANCE, PUBLIC OFFICERS, RETIREMENT, REVENUE, SALARIES & ALLOWANCES, SCHOOLS, STATE AID, TAXATION, TRANSPORTATION, UNIVERSITIES, WORKERS COMPENSATION
+cos_sim(BUDGETS, APPROPRIATIONS) = [[0.99482614]]
+cos_sim(BUDGETS, BUDGET) = [[0.9999999]]
+cos_sim(BUDGETS, ECONOMIC DEVELOPMENT) = [[0.99243265]]
+cos_sim(BUDGETS, ENERGY) = [[0.9797842]]
+cos_sim(BUDGETS, EXECUTIVE BRANCH) = [[0.99538964]]
+cos_sim(BUDGETS, FEDERAL AID) = [[0.9950383]]
+cos_sim(BUDGETS, FIRE PROTECTION) = [[0.9860347]]
+cos_sim(PUBLIC FUNDS AND ACCOUNTS, FUNDS) = [[0.9910629]]
+cos_sim(BUDGETS, LEGISLATURE) = [[0.97921085]]
+cos_sim(BUDGETS, LOANS) = [[0.9815088]]
+cos_sim(BUDGETS, MILITARY) = [[0.98942846]]
+cos_sim(BUDGETS, PERMANENT FUND) = [[0.97275096]]
+cos_sim(PUBLIC FUNDS AND ACCOUNTS, PERMANENT FUND) = [[0.95751035]]
+cos_sim(BUDGETS, PUBLIC CORPORATIONS) = [[0.98340714]]
+cos_sim(PUBLIC FUNDS AND ACCOUNTS, PUBLIC CORPORATIONS) = [[0.9646713]]
+cos_sim(BUDGETS, PUBLIC EMPLOYEES) = [[0.95482713]]
+cos_sim(BUDGETS, PUBLIC FINANCE) = [[0.989288]]
+cos_sim(PUBLIC FUNDS AND ACCOUNTS, PUBLIC FINANCE) = [[0.9511268]]
+cos_sim(BUDGETS, REVENUE) = [[0.9789243]]
+cos_sim(BUDGETS, SALARIES & ALLOWANCES) = [[0.99783194]]
+cos_sim(BUDGETS, STATE AID) = [[0.9929692]]
+cos_sim(BUDGETS, TAXATION) = [[0.99029684]]
+cos_sim(BUDGETS, TRANSPORTATION) = [[0.9635584]]
+cos_sim(BUDGETS, WORKERS COMPENSATION) = [[0.9922296]]
+An Act making appropriations for the operating and capital expenses of the state's integrated comprehensive mental health program; and providing for an effective date.
+PREDICTED: MENTAL HEALTH
+ORIGINAL: ALCOHOL, APPROPRIATIONS, BUDGET, CAPITAL PROJECTS, CORRECTIONS, COURTS, DISABILITIES, DRUGS, FOSTER CARE, GRANTS, HEALTH & SOCIAL SERVICES, HOUSING, LABOR RELATIONS, MEDICAL CARE, MENTAL HEALTH, PIONEERS' HOMES, PUBLIC ASSISTANCE, PUBLIC EMPLOYEES, SALARIES & ALLOWANCES, SENIOR CITIZENS, UNIVERSITIES, VOCATIONAL TRAINING
+cos_sim(MENTAL HEALTH, FOSTER CARE) = [[0.97067904]]
+cos_sim(MENTAL HEALTH, HEALTH & SOCIAL SERVICES) = [[0.9896709]]
+cos_sim(MENTAL HEALTH, MEDICAL CARE) = [[0.96130866]]
+cos_sim(MENTAL HEALTH, MENTAL HEALTH) = [[1.0000001]]
+management of enhanced stocks of shellfish; authorizing certain nonprofit organizations to engage in shellfish enhancement projects; authorizing the Department of Fish and Game to collect fee revenue from applicants for certain salmon hatchery permits and from applicants for shellfish enhancement project permits; relating to application fees for salmon hatchery permits; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: FEES, FISH & GAME (FISH), FOOD, HATCHERIES, NONPROFIT ORGANIZATIONS, PERMITS, PUBLICATIONS, TAXATION
+outdoor advertising.
+PREDICTED: ADVERTISING
+ORIGINAL: ADVERTISING, LEASES, PROPERTY, SALES
+cos_sim(ADVERTISING, ADVERTISING) = [[1.]]
+cos_sim(ADVERTISING, LEASES) = [[0.9965013]]
+An Act exempting the state from daylight saving time; petitioning the United States Department of Transportation to change the time zones of the state; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: TIME ZONES
+fees for using an automated teller machine; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: CONSUMER AFFAIRS, FEES, FINANCIAL INSTITUTIONS
+An Act extending the termination date of the Board of Dental Examiners; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BOARDS & COMMISSIONS, DENTISTS, OCCUPATIONS & PROFESSIONS, SUNSET
+An Act making special appropriations from the earnings reserve account for the payment of permanent fund dividends; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: APPROPRIATIONS, FUNDS, PERMANENT FUND, PUBLIC CORPORATIONS, PUBLIC FINANCE, SPECIAL APPROPRIATIONS
+An Act directing the Department of Revenue to pay dividends to certain eligible individuals; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: APPROPRIATIONS, FUNDS, PERMANENT FUND, REVENUE
+An Act removing from the exempt service of the state persons who are employed in a professional capacity to make a temporary or special inquiry, study, or examination as authorized by the governor and including those persons in the partially exempt service of the state; repealing the authority of the governor or a designee of the governor to authorize higher pay than is otherwise allowable for certain partially exempt employees in the executive branch; requiring the commissioner of administration to submit a report to the legislature; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: EXECUTIVE BRANCH, GOVERNOR, PUBLIC EMPLOYEES
+criminal law and procedure; relating to marriage as a defense to certain crimes of sexual assault; establishing the crime of possession of motor vehicle theft tools; relating to controlled substances; relating to electronic monitoring; relating to probation and parole; relating to sentencing; amending the definitions of 'most serious felony,' 'sex offense,' and 'sex offender'; relating to registration of sex offenders; relating to the automated victim notification system; relating to reporting child abuse or neglect; relating to Alaska Native organizations; relating to the village public safety officer program; relating to cancellation of a driver's license; relating to driving while license canceled; relating to operating under the influence; relating to restoration of a driver's license; relating to refusal to submit to a chemical test; relating to the use of headlights; relating to the powers and duties of the commissioner of corrections; relating to pretrial services; relating to the duties of a prosecuting attorney; relating to testing of sexual assault examination kits; relating to reports of involuntary commitment; amending Rules 6(r)(6) and 38.2, Alaska Rules of Criminal Procedure; and providing for an effective date.
+PREDICTED: CRIMES, SEX OFFENSES AND OFFENDERS
+ORIGINAL: AGE OF PERSONS, APPEALS, CORRECTIONS, COURT RULES, CRIMES, CRIMINAL PROCEDURE, DISABILITIES, DISCLOSURE, DRUGS, MENTAL HEALTH, PRIVACY, PUBLIC SAFETY, REGULATIONS, SENTENCING, VICTIMS RIGHTS, WEAPONS, YOUTH CENTERS
+cos_sim(CRIMES, CORRECTIONS) = [[0.9591913]]
+cos_sim(SEX OFFENSES AND OFFENDERS, CORRECTIONS) = [[0.9690932]]
+cos_sim(CRIMES, COURT RULES) = [[0.9804181]]
+cos_sim(SEX OFFENSES AND OFFENDERS, COURT RULES) = [[0.9801935]]
+cos_sim(CRIMES, CRIMES) = [[1.0000001]]
+cos_sim(SEX OFFENSES AND OFFENDERS, CRIMES) = [[0.97328407]]
+cos_sim(CRIMES, CRIMINAL PROCEDURE) = [[0.98627263]]
+cos_sim(SEX OFFENSES AND OFFENDERS, CRIMINAL PROCEDURE) = [[0.962186]]
+cos_sim(CRIMES, SENTENCING) = [[0.99662656]]
+cos_sim(SEX OFFENSES AND OFFENDERS, SENTENCING) = [[0.9530166]]
+cos_sim(CRIMES, VICTIMS RIGHTS) = [[0.95902705]]
+pretrial release; relating to sentencing; relating to treatment program credit toward service of a sentence of imprisonment; relating to electronic monitoring; amending Rules 38.2 and 45(d), Alaska Rules of Criminal Procedure; and providing for an effective date.
+PREDICTED: SENTENCING
+ORIGINAL: CORRECTIONS, COURT RULES, COURTS, CRIMES, CRIMINAL PROCEDURE, JUDGES, PUBLIC SAFETY, SENTENCING
+cos_sim(SENTENCING, COURT RULES) = [[0.9637977]]
+cos_sim(SENTENCING, CRIMES) = [[0.9942646]]
+cos_sim(SENTENCING, CRIMINAL PROCEDURE) = [[0.9782496]]
+cos_sim(SENTENCING, JUDGES) = [[0.97744095]]
+cos_sim(SENTENCING, SENTENCING) = [[1.0000001]]
+probation; relating to a program allowing probationers to earn credits for complying with the conditions of probation; relating to early termination of probation; relating to parole; relating to a program allowing parolees to earn credits for complying with the conditions of parole; relating to early termination of parole; relating to eligibility for discretionary parole; relating to good time; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: APPEALS, BOARDS & COMMISSIONS, CORRECTIONS, COURT RULES, CRIMES, CRIMINAL PROCEDURE, PUBLIC SAFETY, REGULATIONS, SENTENCING, VICTIMS RIGHTS
+An Act eliminating marriage as a defense to certain crimes of sexual assault; relating to enticement of a minor; relating to harassment in the first degree; relating to harassment in the second degree; relating to indecent viewing or production of a picture; relating to the definition of 'sexual contact'; relating to assault in the second degree; relating to sentencing; relating to prior convictions; relating to the definition of 'most serious felony'; relating to the definition of 'sexual felony'; relating to the duty of a sex offender or child kidnapper to register; relating to eligibility for discretionary parole; and providing for an effective date.
+PREDICTED: CRIMES, SEX OFFENSES AND OFFENDERS
+ORIGINAL: CORRECTIONS, COURTS, CREDIT, CRIMES, CRIMINAL PROCEDURE, INTERNET, MARRIAGE, MINORS, PUBLIC SAFETY, SENTENCING, WOMEN
+cos_sim(CRIMES, CORRECTIONS) = [[0.95500034]]
+cos_sim(SEX OFFENSES AND OFFENDERS, CORRECTIONS) = [[0.9663558]]
+cos_sim(CRIMES, COURTS) = [[0.95714456]]
+cos_sim(SEX OFFENSES AND OFFENDERS, COURTS) = [[0.9684184]]
+cos_sim(CRIMES, CRIMES) = [[1.]]
+cos_sim(SEX OFFENSES AND OFFENDERS, CRIMES) = [[0.958653]]
+cos_sim(CRIMES, CRIMINAL PROCEDURE) = [[0.9837566]]
+cos_sim(SEX OFFENSES AND OFFENDERS, CRIMINAL PROCEDURE) = [[0.9581292]]
+cos_sim(CRIMES, SENTENCING) = [[0.9958729]]
+cos_sim(SEX OFFENSES AND OFFENDERS, SENTENCING) = [[0.95275086]]
+An Act making supplemental appropriations for fire suppression activities and restoration projects relating to earthquake disaster relief; capitalizing funds; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BUDGET, DISASTER, FIRE PROTECTION, FORESTRY, PUBLIC LAND, PUBLIC WORKS, RESOURCES, SPECIAL APPROPRIATIONS, SUPPLEMENTAL APPROPRIATIONS, TRANSPORTATION
+An Act making supplemental appropriations, reappropriations, and other appropriations; amending appropriations; capitalizing funds; and providing for an effective date.
+PREDICTED: BUDGETS
+ORIGINAL: APPROPRIATIONS, CAPITAL PROJECTS, CORRECTIONS, EDUCATION, ENVIRONMENTAL CONCERNS, FISH & GAME (BOTH), FUNDS, HEALTH & SOCIAL SERVICES, HIGHWAYS, MARINE HIGHWAY, MEDICAL CARE, MENTAL HEALTH, MILITARY, MUSEUMS, PUBLIC FINANCE, PUBLIC SAFETY, RESOURCES, RETIREMENT, REVENUE, SAFETY, SPECIAL APPROPRIATIONS, SUPPLEMENTAL APPROPRIATIONS, TAXATION, TRANSPORTATION, VESSELS, VETERANS
+cos_sim(BUDGETS, APPROPRIATIONS) = [[0.9970888]]
+cos_sim(BUDGETS, CAPITAL PROJECTS) = [[0.9976453]]
+cos_sim(BUDGETS, ENVIRONMENTAL CONCERNS) = [[0.99594134]]
+cos_sim(BUDGETS, HIGHWAYS) = [[0.9552409]]
+cos_sim(BUDGETS, MARINE HIGHWAY) = [[0.98789996]]
+cos_sim(BUDGETS, MILITARY) = [[0.99415445]]
+cos_sim(BUDGETS, PUBLIC FINANCE) = [[0.9915967]]
+cos_sim(BUDGETS, RESOURCES) = [[0.9792271]]
+cos_sim(BUDGETS, REVENUE) = [[0.9593188]]
+cos_sim(BUDGETS, SPECIAL APPROPRIATIONS) = [[0.99532896]]
+cos_sim(BUDGETS, SUPPLEMENTAL APPROPRIATIONS) = [[0.9965101]]
+cos_sim(BUDGETS, TAXATION) = [[0.993236]]
+cos_sim(BUDGETS, VESSELS) = [[0.9963115]]
+An Act establishing May 31 of each year as Katie John Day.
+PREDICTED: HOLIDAYS AND OBSERVANCES
+ORIGINAL: ALASKA NATIVES, HOLIDAYS, PROCLAMATIONS, SUBSISTENCE
+cos_sim(HOLIDAYS AND OBSERVANCES, HOLIDAYS) = [[0.9730069]]
+An Act establishing May 15 of each year as Hmong-American Veterans Day.
+PREDICTED: HOLIDAYS AND OBSERVANCES, VETERANS
+ORIGINAL: HOLIDAYS, MILITARY, VETERANS
+cos_sim(HOLIDAYS AND OBSERVANCES, HOLIDAYS) = [[0.9657951]]
+cos_sim(VETERANS, VETERANS) = [[1.0000001]]
+expanding the period in a day during which an employed child under 16 years of age may perform work in the summer; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: EDUCATION, EMPLOYMENT, LABOR, MINORS
+election of a permanent presiding officer.
+PREDICTED: ELECTIONS
+ORIGINAL: LEGISLATIVE PROCEDURE, LEGISLATORS, LEGISLATURE, POLITICAL PARTIES, VOTING
+cos_sim(ELECTIONS, LEGISLATIVE PROCEDURE) = [[0.9773388]]
+cos_sim(ELECTIONS, LEGISLATORS) = [[0.99376374]]
+cos_sim(ELECTIONS, LEGISLATURE) = [[0.9837456]]
+cos_sim(ELECTIONS, VOTING) = [[0.99523115]]
+An Act repealing the credit for municipal payments against the state levy of tax on oil and gas exploration, production, and pipeline transportation property; repealing the levy of tax by a municipality on oil and gas exploration, production, and pipeline transportation property; and providing for an effective date.
+PREDICTED: OIL AND GAS, TAXES - PROPERTY
+ORIGINAL: ATTORNEY GENERAL, CREDIT, LAND, MUNICIPALITIES, OIL & GAS, PIPELINES, PROPERTY, REVENUE, TAXATION
+cos_sim(TAXES - PROPERTY, CREDIT) = [[0.98178244]]
+cos_sim(TAXES - PROPERTY, PROPERTY) = [[0.9908417]]
+An Act repealing the senior benefits payment program; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: AGE OF PERSONS, HEALTH & SOCIAL SERVICES, PUBLIC ASSISTANCE, SENIOR CITIZENS, STATE AID
+An Act repealing statutes providing for reimbursement for costs of University of Alaska capital projects, municipal capital projects, and power projects; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: APPROPRIATIONS, BUILDINGS, CAPITAL PROJECTS, CONSTRUCTION, DEBT, ENERGY, HYDROELECTRIC PROJECTS, INTEREST, MUNICIPALITIES, TRANSPORTATION, UNIVERSITIES
+gun violence protective orders; relating to the crime of violating a protective order; relating to a central registry for protective orders; requiring physicians, psychologists, psychological associates, social workers, marital and family therapists, and licensed professional counselors to report annually threats of gun violence; relating to the powers of district judges and magistrates; amending Rules 4 and 65, Alaska Rules of Civil Procedure, and Rule 9, Alaska Rules of Administration; and providing for an effective date.
+PREDICTED: ORDERS OF COURT
+ORIGINAL: COURT RULES, COURTS, CRIMES, CRIMINAL PROCEDURE, INJUNCTIONS, JUDGES, LAW ENFORCEMENT, LEGISLATURE, MENTAL HEALTH, PHYSICIANS, PSYCHOLOGISTS, PUBLIC SAFETY, WEAPONS
+cos_sim(ORDERS OF COURT, COURT RULES) = [[0.994164]]
+cos_sim(ORDERS OF COURT, COURTS) = [[0.9803418]]
+cos_sim(ORDERS OF COURT, CRIMES) = [[0.980813]]
+cos_sim(ORDERS OF COURT, CRIMINAL PROCEDURE) = [[0.9659889]]
+publication of notice by state agencies when they create, eliminate, or transfer positions in the classified, partially exempt, or exempt service.
+PREDICTED: TAX PREFERENCES - EXEMPTIONS, CREDITS, DEDUCTIONS, DEFERRALS, ETC.
+ORIGINAL: ADMINISTRATIVE PROCEDURE, EXECUTIVE BRANCH, PUBLIC CORPORATIONS, PUBLIC EMPLOYEES, PUBLIC OFFICERS, UNIVERSITIES
+the appropriation of alcoholic beverage excise tax proceeds for community assistance; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: ALCOHOL, APPROPRIATIONS, FUNDS, MUNICIPALITIES, PUBLIC ASSISTANCE, PUBLIC FINANCE, TAXATION
+An Act repealing the fisheries business tax allocation to municipalities; repealing the refunds to local governments of fisheries business taxes; repealing revenue sharing for the fishery resource landing tax; providing for an effective date by amending the effective date of sec. 36, ch. 61, SLA 2014; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BUSINESS, FISH & GAME (FISH), FUNDS, GRANTS, HATCHERIES, MUNICIPALITIES, PUBLIC FINANCE, REVENUE SHARING, TAXATION, TOURISM
+An Act repealing state aid for costs of school construction debt; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BONDS & BONDING, CONSTRUCTION, DEBT, EDUCATION, MUNICIPALITIES, SCHOOLS, STATE AID
+the duties of the Department of Labor and Workforce Development; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: EDUCATION, LABOR, UNIVERSITIES, VOCATIONAL TRAINING
+the division of labor standards and safety; relating to the division of workers' compensation; establishing the division of workers' safety and compensation; relating to employment of a minor; and providing for an effective date.
+PREDICTED: EMPLOYMENT AND EMPLOYEES, LABOR
+ORIGINAL: EMPLOYMENT, LABOR, LIABILITY, MEDICAL CARE, SAFETY, SALARIES & ALLOWANCES, WORKERS COMPENSATION
+cos_sim(EMPLOYMENT AND EMPLOYEES, EMPLOYMENT) = [[0.9615203]]
+cos_sim(LABOR, EMPLOYMENT) = [[0.9909555]]
+cos_sim(LABOR, LABOR) = [[1.]]
+cos_sim(LABOR, LIABILITY) = [[0.98836404]]
+cos_sim(LABOR, SALARIES & ALLOWANCES) = [[0.9842006]]
+cos_sim(LABOR, WORKERS COMPENSATION) = [[0.9664368]]
+An Act repealing the Alaska Public Broadcasting Commission; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BOARDS & COMMISSIONS, COMMUNICATIONS, MEDIA, NONPROFIT ORGANIZATIONS
+health education and physical activity requirements for students in grades kindergarten through eight; and establishing the Thursday in February immediately following Presidents' Day as PLAAY Day.
+PREDICTED: SCHOOLS AND SCHOOL DISTRICTS
+ORIGINAL: EDUCATION, HOLIDAYS, SCHOOL DISTRICTS, SCHOOLS
+hiring for positions in state service based on substitution of military work experience or training for required civilian work experience or training.
+PREDICTED: 
+ORIGINAL: MILITARY, PUBLIC EMPLOYEES, VETERANS
+An Act establishing the month of February as Black History Month.
+PREDICTED: HOLIDAYS AND OBSERVANCES
+ORIGINAL: HOLIDAYS, PROCLAMATIONS
+cos_sim(HOLIDAYS AND OBSERVANCES, HOLIDAYS) = [[0.9680084]]
+An Act establishing an exception from permit and fee requirements for certain charitable gaming activities; relating to fees for applicants for a charitable gaming permit; amending the definition of 'permittee'; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: FEES, GAMBLING, LICENSING, MUNICIPALITIES, NONPROFIT ORGANIZATIONS, PERMITS, REVENUE
+An Act repealing the ocean rangers program; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: DATA PROCESSING, ENVIRONMENTAL CONCERNS, MARINE FACILITIES, RESOURCES, REVENUE, SANITATION, SCIENCE & TECHNOLOGY, VESSELS, WATER
+funding for Internet services for school districts; and relating to the Alaska higher education investment fund.
+PREDICTED: SCHOOLS AND SCHOOL DISTRICTS
+ORIGINAL: EDUCATION, FUNDS, INTERNET, SCHOOL DISTRICTS, SCHOOLS
+a state residential code, the Alaska Housing Finance Corporation, and municipal building codes.
+PREDICTED: BUILDING CODES AND PERMITS, HOMES AND HOUSING
+ORIGINAL: BUILDINGS, CODE REVISION, CONSTRUCTION, CONTRACTORS, CORPORATIONS, HOUSING, MUNICIPALITIES, PUBLIC CORPORATIONS
+cos_sim(BUILDING CODES AND PERMITS, BUILDINGS) = [[0.96304315]]
+cos_sim(BUILDING CODES AND PERMITS, CODE REVISION) = [[0.97313756]]
+cos_sim(HOMES AND HOUSING, CORPORATIONS) = [[0.952575]]
+cos_sim(BUILDING CODES AND PERMITS, PUBLIC CORPORATIONS) = [[0.9685433]]
+the number of superior court judges in the third judicial district; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: COURTS, JUDGES
+insurance; relating to an insurer's corporate governance; relating to insurance holding companies and insurance company holding systems; amending Rule 26, Alaska Rules of Civil Procedure, and Rules 402 and 501, Alaska Rules of Evidence; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BUSINESS, CONTRACTS, CORPORATIONS, DISCLOSURE, INSURANCE, INVESTMENTS, REGULATIONS, SECURITIES
+participation of certain peace officers and firefighters in the defined benefit and defined contribution plans of the Public Employees' Retirement System of Alaska; relating to eligibility of peace officers and firefighters for medical, disability, and death benefits; relating to liability of the Public Employees' Retirement System of Alaska; and providing for an effective date.
+PREDICTED: RETIREMENT AND PENSIONS
+ORIGINAL: BOARDS & COMMISSIONS, FIRE PROTECTION, INSURANCE, LAW ENFORCEMENT, MEDICAL CARE, MILITARY, PUBLIC EMPLOYEES, RETIREMENT
+cos_sim(RETIREMENT AND PENSIONS, BOARDS & COMMISSIONS) = [[0.95188165]]
+cos_sim(RETIREMENT AND PENSIONS, PUBLIC EMPLOYEES) = [[0.9500129]]
+cos_sim(RETIREMENT AND PENSIONS, RETIREMENT) = [[0.95948005]]
+the right to demand a jury trial in cases involving termination of parental rights; amending Rules 18(b), 18(e), and 18(g), Alaska Child in Need of Aid Rules of Procedure.
+PREDICTED: 
+ORIGINAL: CHILD SUPPORT, COURT RULES, COURTS, FAMILIES, HEALTH & SOCIAL SERVICES, HEARINGS, MINORS, RIGHTS
+An Act prohibiting disposable plastic shopping bags; and providing for an effective date.
+PREDICTED: SOLID WASTE
+ORIGINAL: CONSUMER AFFAIRS, FEES, FUNDS, GRANTS, HAZARDOUS WASTE, HIGHWAYS, HISTORIC PRESERVATION, LAND, LEGISLATURE, MUNICIPALITIES, NONPROFIT ORGANIZATIONS, PARKS & RECREATION, PUBLIC LAND, RESOURCES, SALES
+cos_sim(SOLID WASTE, CONSUMER AFFAIRS) = [[0.9856244]]
+cos_sim(SOLID WASTE, FEES) = [[0.9886626]]
+cos_sim(SOLID WASTE, GRANTS) = [[0.9538659]]
+cos_sim(SOLID WASTE, HAZARDOUS WASTE) = [[0.99433047]]
+cos_sim(SOLID WASTE, HIGHWAYS) = [[0.9792642]]
+cos_sim(SOLID WASTE, HISTORIC PRESERVATION) = [[0.98647904]]
+cos_sim(SOLID WASTE, LAND) = [[0.9900816]]
+cos_sim(SOLID WASTE, MUNICIPALITIES) = [[0.9738532]]
+cos_sim(SOLID WASTE, NONPROFIT ORGANIZATIONS) = [[0.9617736]]
+cos_sim(SOLID WASTE, PARKS & RECREATION) = [[0.9687837]]
+cos_sim(SOLID WASTE, PUBLIC LAND) = [[0.97088]]
+An Act adding to the powers and duties of the State Commission for Human Rights; and relating to and prohibiting discrimination based on sexual orientation or gender identity or expression.
+PREDICTED: 
+ORIGINAL: ADVERTISING, BOARDS & COMMISSIONS, BUSINESS, CREDIT, EMPLOYMENT, EXECUTIVE BRANCH, FAMILIES, FINANCIAL INSTITUTIONS, HOUSING, LABOR UNIONS, LEASES, LOANS, MUNICIPALITIES, PROPERTY, PUBLIC ACCOMMODATIONS, RIGHTS, SALES, SCHOOL DISTRICTS, WAGES
+voting by electronic transmission in a state election.
+PREDICTED: ELECTIONS
+ORIGINAL: COMMUNICATIONS, ELECTIONS, INTERNET, VOTING
+cos_sim(ELECTIONS, COMMUNICATIONS) = [[0.9838553]]
+cos_sim(ELECTIONS, ELECTIONS) = [[0.9999999]]
+cos_sim(ELECTIONS, INTERNET) = [[0.97471863]]
+cos_sim(ELECTIONS, VOTING) = [[0.9916064]]
+the presumption of compensability for a disability resulting from certain diseases for firefighters, emergency medical technicians, paramedics, and peace officers.
+PREDICTED: 
+ORIGINAL: EMPLOYMENT, FIRE PROTECTION, MEDICAL CARE, PUBLIC SAFETY, WORKERS COMPENSATION
+shared child custody; relating to relocation of a child out of state; and relating to a presumption of the best interests of the child in child custody and visitation determinations.
+PREDICTED: 
+ORIGINAL: CHILD ABUSE, CHILD CUSTODY, COURTS, DIVORCE, DOMESTIC VIOLENCE, FAMILIES, MARRIAGE, MILITARY, MINORS
+a state-owned inpatient mental health treatment hospital; and providing for an effective date.
+PREDICTED: MENTAL HEALTH
+ORIGINAL: BUILDINGS, CONSTRUCTION, CONTRACTS, EXECUTIVE BRANCH, HEALTH & SOCIAL SERVICES, HOSPITALS, MEDICAL CARE, MENTAL HEALTH, OCCUPATIONS & PROFESSIONS, PROCUREMENTS, RESIDENTIAL CARE
+cos_sim(MENTAL HEALTH, HEALTH & SOCIAL SERVICES) = [[0.9895407]]
+cos_sim(MENTAL HEALTH, MENTAL HEALTH) = [[1.]]
+the liquefied natural gas storage facility tax credit; and providing for an effective date.
+PREDICTED: OIL AND GAS, TAX PREFERENCES - EXEMPTIONS, CREDITS, DEDUCTIONS, DEFERRALS, ETC.
+ORIGINAL: CORPORATIONS, CREDIT, OIL & GAS, REVENUE, TAXATION
+cos_sim(TAX PREFERENCES - EXEMPTIONS, CREDITS, DEDUCTIONS, DEFERRALS, ETC., CREDIT) = [[0.999639]]
+An Act naming the Trooper Gabe Rich Memorial Bridge.
+PREDICTED: NAMED ACTS
+ORIGINAL: HIGHWAYS, PLACE NAMES
+cos_sim(NAMED ACTS, PLACE NAMES) = [[0.9915962]]
+the prescription of opioids; relating to the practice of dentistry; relating to the practice of medicine; relating to the practice of podiatry; relating to the practice of osteopathy; relating to the practice of nursing; relating to the practice of optometry; and relating to the practice of pharmacy.
+PREDICTED: DRUGS, HEALTH CARE PROFESSIONS AND PROVIDERS, TITLE ONLY BILLS
+ORIGINAL: BOARDS & COMMISSIONS, DENTISTS, DRUGS, HEALTH & SOCIAL SERVICES, LIABILITY, LICENSING, MEDICAL CARE, NURSES, OCCUPATIONS & PROFESSIONS, OPTOMETRISTS, PHYSICIANS, PUBLIC SAFETY
+cos_sim(DRUGS, BOARDS & COMMISSIONS) = [[0.9555652]]
+cos_sim(DRUGS, DENTISTS) = [[0.9844075]]
+cos_sim(TITLE ONLY BILLS, DENTISTS) = [[0.9959255]]
+cos_sim(DRUGS, DRUGS) = [[0.9999998]]
+cos_sim(TITLE ONLY BILLS, DRUGS) = [[0.98731667]]
+cos_sim(HEALTH CARE PROFESSIONS AND PROVIDERS, HEALTH & SOCIAL SERVICES) = [[0.9851625]]
+cos_sim(DRUGS, LIABILITY) = [[0.9879526]]
+cos_sim(TITLE ONLY BILLS, LIABILITY) = [[0.9980294]]
+cos_sim(DRUGS, LICENSING) = [[0.96170974]]
+cos_sim(TITLE ONLY BILLS, LICENSING) = [[0.98473567]]
+cos_sim(HEALTH CARE PROFESSIONS AND PROVIDERS, MEDICAL CARE) = [[0.95715636]]
+cos_sim(DRUGS, NURSES) = [[0.9936071]]
+cos_sim(TITLE ONLY BILLS, NURSES) = [[0.995031]]
+cos_sim(DRUGS, PHYSICIANS) = [[0.981118]]
+cos_sim(TITLE ONLY BILLS, PHYSICIANS) = [[0.9843505]]
+the definition of political party; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: CAMPAIGNS, ELECTIONS, POLITICAL PARTIES, VOTING
+the practice of naturopathy; relating to the licensure of naturopaths; relating to the Department of Commerce, Community, and Economic Development; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: EDUCATION, HEALTH & SOCIAL SERVICES, LICENSING, MEDICAL CARE, MENTAL HEALTH, OCCUPATIONS & PROFESSIONS, UNIVERSITIES
+An Act exempting direct health care agreements from regulation as insurance; establishing a direct care payment program for medical assistance recipients; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: CONTRACTS, FEES, HEALTH & SOCIAL SERVICES, INSURANCE, MEDICAL CARE, PUBLIC ASSISTANCE
+temporary courtesy licenses for certain nonresident professionals; and relating to the Department of Commerce, Community, and Economic Development.
+PREDICTED: 
+ORIGINAL: ECONOMIC DEVELOPMENT, LICENSING, MARRIAGE, MILITARY, OCCUPATIONS & PROFESSIONS
+the taxation of electronic smoking products; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: DRUGS, REVENUE, SALES, TAXATION, TOBACCO
+the confidentiality of certain state records on animals and crops; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: AGRICULTURE, ANIMALS, DISCLOSURE, PUBLIC RECORDS
+Alaska Pioneers' Home and Alaska Veterans' Home payments, rates, and services; and providing for an effective date.
+PREDICTED: VETERANS
+ORIGINAL: HEALTH & SOCIAL SERVICES, MEDICAL CARE, PIONEERS' HOMES, RESIDENTIAL CARE, SENIOR CITIZENS, STATE AID, VETERANS
+cos_sim(VETERANS, SENIOR CITIZENS) = [[0.9587785]]
+cos_sim(VETERANS, VETERANS) = [[0.9999999]]
+the prescription of drugs by a physician assistant without physical examination.
+PREDICTED: DRUGS, HEALTH CARE PROFESSIONS AND PROVIDERS
+ORIGINAL: BOARDS & COMMISSIONS, COMMUNICATIONS, DRUGS, INTERNET, MEDICAL CARE, OCCUPATIONS & PROFESSIONS, PHYSICIANS
+cos_sim(DRUGS, COMMUNICATIONS) = [[0.9908456]]
+cos_sim(DRUGS, DRUGS) = [[0.99999994]]
+cos_sim(DRUGS, INTERNET) = [[0.957554]]
+cos_sim(HEALTH CARE PROFESSIONS AND PROVIDERS, MEDICAL CARE) = [[0.9684865]]
+cos_sim(DRUGS, PHYSICIANS) = [[0.98683494]]
+aggregation of crimes under theft in the second degree; relating to fraudulent use of an access device; and relating to the crime of possession of motor vehicle theft tools.
+PREDICTED: CRIMES
+ORIGINAL: BUSINESS, CRIMES, CRIMINAL PROCEDURE, MOTOR VEHICLES, PROPERTY
+cos_sim(CRIMES, CRIMES) = [[1.]]
+cos_sim(CRIMES, CRIMINAL PROCEDURE) = [[0.986711]]
+the development and operation of a hydroelectric site at the Nuyakuk River Falls; providing for the amendment of the management plan for the Wood-Tikchik State Park; and providing for an effective date.
+PREDICTED: 
+ORIGINAL: BOARDS & COMMISSIONS, HYDROELECTRIC PROJECTS, PARKS & RECREATION, PLANNING, RESOURCES, WATER
+the duties of the Department of Transportation and Public Facilities.
+PREDICTED: 
+ORIGINAL: AIRPORTS, AVIATION, BOATS & BOATING, ENERGY, ENVIRONMENTAL CONCERNS, EXECUTIVE BRANCH, HIGHWAYS, HYDROELECTRIC PROJECTS, MARINE HIGHWAY, MOTOR VEHICLES, OIL & GAS, RAILROAD, TRAILS, TRANSPORTATION, VESSELS, WEIGHTS & MEASURES
